@@ -96,6 +96,7 @@ class Principal:
 des = Descripcion.des
 p=Principal(des)
 p.main()
+print("probando")
 
         
         
